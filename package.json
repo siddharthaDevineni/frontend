@@ -38,9 +38,10 @@
     "usehooks-ts@^2.7.2": "patch:usehooks-ts@npm:^2.7.2#./.yarn/patches/usehooks-ts-npm-2.7.2-fceffe0e43.patch"
   },
   "devDependencies": {
+    "@types/node": "^20.11.30",
     "husky": "~8.0.3",
     "lint-staged": "~13.2.2",
-    "next": "~14.0.4",
+    "next": "latest",
     "vercel": "~32.4.1"
   },
   "packageManager": "yarn@3.2.3"
